@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>SpringBoot开发小而美的个人博客</title>
+    <link href="/2020/08/10/SpringBoot%E5%BC%80%E5%8F%91%E5%B0%8F%E8%80%8C%E7%BE%8E%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2020/08/10/SpringBoot%E5%BC%80%E5%8F%91%E5%B0%8F%E8%80%8C%E7%BE%8E%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h2 id="用户故事"><a href="#用户故事" class="headerlink" title="用户故事"></a>用户故事</h2><ul><li>个人简介</li><li>角色，功能，商业价值</li><li>举例<ul><li>注册</li><li>登录</li><li>最新信息</li></ul></li></ul><hr><h2 id="个人博客角色"><a href="#个人博客角色" class="headerlink" title="个人博客角色"></a>个人博客角色</h2><h3 id="普通用户和管理员（我）"><a href="#普通用户和管理员（我）" class="headerlink" title="普通用户和管理员（我）"></a>普通用户和管理员（我）</h3><h3 id="访客"><a href="#访客" class="headerlink" title="访客"></a>访客</h3><ul><li>查看我的博客分类</li><li>查看最多的六个列表</li><li>某个分类下的博客列表</li><li>根据年度线查看博客列表</li><li>查看所有标签</li><li>最新的推荐博客</li><li>赞赏和评论博客</li><li>可以微信扫描观看博客</li><li>可以查看详细内容</li></ul><h3 id="我"><a href="#我" class="headerlink" title="我"></a>我</h3><h4 id="管理我的博客"><a href="#管理我的博客" class="headerlink" title="管理我的博客"></a>管理我的博客</h4><ul><li><p>登录后台（安全检验）</p></li><li><p>管理博客</p></li><li><p>发布博客</p></li><li><p>增加标签</p></li><li><p>修改博客</p></li><li><p>删除博客</p></li><li><p>分类查询博客</p></li></ul><h4 id="管理博客分类"><a href="#管理博客分类" class="headerlink" title="管理博客分类"></a>管理博客分类</h4><ul><li>新增</li><li>修改</li><li>删除</li><li>分类查询</li></ul><h3 id="管理博客标签"><a href="#管理博客标签" class="headerlink" title="管理博客标签"></a>管理博客标签</h3><ul><li>新增</li><li>修改</li><li>删除</li><li>分类查询</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>&#39;考研数学&#39;</title>
     <link href="/2020/08/10/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/"/>
     <url>/2020/08/10/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/</url>
